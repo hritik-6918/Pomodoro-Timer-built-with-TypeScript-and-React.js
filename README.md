@@ -13,7 +13,7 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 
 ## Project Website
 
-https://pomodoro-with-typescript-and-react.netlify.app/
+https://pomodoro-timer-hritik-6918.vercel.app/
 
 
 ## Technology Stack
